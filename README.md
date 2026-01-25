@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jav1ki4N/ImgFridge/refs/heads/main/my_name.png"/>
-  <img src="https://raw.githubusercontent.com/Jav1ki4N/ImgFridge/refs/heads/main/quote.png">
+  <img src="https://raw.githubusercontent.com/Jav1ki4N/ImgFridge/refs/heads/main/vg.png">
 </p>
 
 ----
