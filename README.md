@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jav1ki4N/ImgFridge/refs/heads/main/my_name.png"/>
+</p>
 
 <!--
 **Jav1ki4N/Jav1ki4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
