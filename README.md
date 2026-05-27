@@ -28,41 +28,29 @@ Feel free to reach me via:
 
 ## Favourite Album
 
-<div style="text-align:center;">
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
-  <div style="max-width:360px; width:80%; margin:0 auto; text-align:center;">
-    <div style="font-family:'EB Garamond', serif; font-style:italic; font-size:20px; color:#fff; line-height:1.1;">Velocity: Design: Comfort</div>
-    <div style="font-family:'EB Garamond', Arial, sans-serif; font-size:12px; color:#fff; margin-bottom:8px;">Sweet Trip, 2003</div>
-    <img src="assets/vdc.jpeg" alt="vdc" style="display:block; width:100%; height:auto; border-radius:4px; margin:0 auto;" />
-  </div>
-</div>
+<p align="center">
+  <em>Velocity: Design: Comfort</em><br>
+  Sweet Trip, 2003<br><br>
+  <img src="assets/vdc.jpeg" alt="vdc" width="360" style="border-radius:4px;" />
+</p>
 
 ## Favourite Movie
 
-<div style="text-align:center;">
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
-  <div style="max-width:360px; width:80%; margin:0 auto; text-align:center;">
-    <div style="font-family:'EB Garamond', serif; font-style:italic; font-size:20px; color:#fff; line-height:1.1;">A Clockwork Orange</div>
-    <div style="font-family:'EB Garamond', Arial, sans-serif; font-size:12px; color:#fff; margin-bottom:8px;">Stanley Kubrick, 1971</div>
-    <img src="assets/aco.webp" alt="A Clockwork Orange" style="display:block; width:100%; height:auto; border-radius:4px; margin:0 auto;" />
-  </div>
-</div>
+<p align="center">
+  <em>A Clockwork Orange</em><br>
+  Stanley Kubrick, 1971<br><br>
+  <img src="assets/aco.webp" alt="A Clockwork Orange" width="360" style="border-radius:4px;" />
+</p>
 <br>
 
 ----
 
-
-
-
-<div style="text-align:center;">
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
-  <div style="max-width:720px; width:90%; margin:0 auto; text-align:center;">
-    <div style="font-family:'EB Garamond', serif; font-style:italic; font-size:20px; color:#fff; line-height:1.2; margin-top:12px;">Impressions to ideas.</div>
-    <div style="font-family:'EB Garamond', serif; font-style:italic; font-size:20px; color:#fff; line-height:1.2; margin-top:6px;">Situations to subjects.</div>
-    <div style="font-family:'EB Garamond', serif; font-style:italic; font-size:20px; color:#fff; line-height:1.2; margin-top:6px;">Brief flights to sustained ones.</div>
-    <div style="font-family:'EB Garamond', serif; font-style:italic; font-size:20px; color:#fff; line-height:1.2; margin-top:6px;">Exceptions to types.</div>
-  </div>
-</div>
+<p align="center">
+  <em>Impressions to ideas.<br>
+  Situations to subjects.<br>
+  Brief flights to sustained ones.<br>
+  Exceptions to types.</em>
+</p>
 
 
 
