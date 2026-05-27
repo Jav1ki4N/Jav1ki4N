@@ -1,5 +1,5 @@
 ## About Me
-Just a junior undergrad into **electronic DIY**, **tech gadgets**, **art**, and **music** (rock 'n' roll especially). Currently learning **embedded Linux** and **MCU** development — also into **frontend**, **deep learning**, and **cybersecurity**.<br>
+Just a junior undergraduate into **electronic DIY**, **tech gadgets**, **art**, and **music** (rock 'n' roll especially). Currently learning **embedded Linux** and **MCU** development — also into **frontend**, **deep learning**, and **cybersecurity**.<br>
 
 Feel free to reach me via:
 
