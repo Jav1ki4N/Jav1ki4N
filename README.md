@@ -3,7 +3,7 @@ Just a junior undergraduate into **electronic DIY**, **tech gadgets**, **art**, 
 
 Feel free to reach me via:
 
-![Static Badge](https://img.shields.io/badge/Wechat-i4Nomercyshown-none?style=flat-square&logo=wechat&logoColor=ffffff&logoSize=auto&labelColor=%2307C160&color=%2307C160) ![Static Badge](https://img.shields.io/badge/QQ-3068732148-none?style=flat-square&logo=qq&logoColor=ffffff&logoSize=auto&labelColor=%231EBAFC&color=%231EBAFC) ![Static Badge](https://img.shields.io/badge/Zhihu-Ian_Jav1k-none?style=flat-square&logo=zhihu&logoColor=ffffff&logoSize=auto&labelColor=%230084FF&color=%230084FF&link=https%3A%2F%2Fwww.zhihu.com%2Fpeople%2Fretrocket)  ![Static Badge](https://img.shields.io/badge/i4Nomercyshown%40outlook.com-none?style=flat-square&logo=gmail&logoColor=ffffff&logoSize=auto&labelColor=%23EA4335&color=%23EA4335)
+![Static Badge](https://img.shields.io/badge/Wechat-i4Nomercyshown-none?style=flat-square&logo=wechat&logoColor=ffffff&logoSize=auto&labelColor=%2307C160&color=%2307C160) ![Static Badge](https://img.shields.io/badge/QQ-3068732148-none?style=flat-square&logo=qq&logoColor=ffffff&logoSize=auto&labelColor=%231EBAFC&color=%231EBAFC) [![Static Badge](https://img.shields.io/badge/Zhihu-Ian_Jav1k-none?style=flat-square&logo=zhihu&logoColor=ffffff&logoSize=auto&labelColor=%230084FF&color=%230084FF)](https://www.zhihu.com/people/retrocket)  ![Static Badge](https://img.shields.io/badge/i4Nomercyshown%40outlook.com-none?style=flat-square&logo=gmail&logoColor=ffffff&logoSize=auto&labelColor=%23EA4335&color=%23EA4335)
 
 
 
