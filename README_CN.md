@@ -6,12 +6,12 @@
 
 大三EE在读，喜欢**电子 DIY**、**科技数码**、**艺术**和**音乐**（摇滚 / 电子 / 实验）。目前在学习**嵌入式 Linux** 和 **MCU** 开发 — 同时也（试图）涉猎**前端**、**深度学习**和**网络安全**。<br>
 
-正在寻找实习岗位：
+~~正在寻找实习岗位：~~
 
-- ESP32 / STM32
-- BSP / 业务
-- ioT / AI / UI / ...
-- 广深月内到岗
+~~- ESP32 / STM32~~
+~~- BSP / 业务~~
+~~- ioT / AI / UI / ...~~
+~~- 广深月内到岗~~
 
 欢迎通过以下方式联系：
 
@@ -38,7 +38,6 @@
 
 ### 非常好机器
 ![Static Badge](https://img.shields.io/badge/_-T14%20Gen2%20AMD-none?style=for-the-badge&logo=thinkpad&logoColor=ffffff&logoSize=auto&labelColor=%23EE2624&color=%23000000)
-
 
 ## 非常好专辑
 
