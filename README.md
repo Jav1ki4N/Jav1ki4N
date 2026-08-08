@@ -2,6 +2,12 @@
 
 **Embedded System** / **Web** / **Art** / **History**<br>
 
+<p align="center">
+  <img src="assets/pt.jpg" alt="pt.jpg" />
+</p>
+<p align="center">
+  <em>Deus ex machina</a></em>
+</p>
 
 To Contact:
 
